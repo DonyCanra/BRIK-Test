@@ -1,0 +1,14 @@
+export const USER_LOGIN_SUCCESSS = "users/loginSuccess";
+export const ADMIN_REGISTER_SUCCESS = "admin/RegisterSuccess";
+export const DASHBOARD_FETCH_SUCCESS = "dashboard/fetchSuccess";
+export const MENUS_FETCH_SUCCESS = "menus/fetchSuccess";
+export const CATEGORIES_FETCH_SUCCESS = "categories/fetchSuccess";
+export const USER_FETCH_SUCCESSS = "users/fetchSuccess";
+export const CATEGORIES_POST_SUCCESS = "categories/postSuccess";
+export const CATEGORIES_DELETE_SUCCESS = "categories/deleteSuccess";
+export const MENUS_DELETE_SUCCESS = "menus/deleteSuccess";
+export const MENUS_POST_SUCCESS = "menus/postSuccess";
+export const CATEGORIES_DETAIL_SUCCESS = "categories/detailSuccess";
+export const MENUS_DETAIL_SUCCESS = "menus/detailSuccess";
+export const CATEGORIES_UPDATE_SUCCESS = "categories/updateSuccess";
+export const MENUS_UPDATE_SUCCESS = "menus/updateSuccess";
